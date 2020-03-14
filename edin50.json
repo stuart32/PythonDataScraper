@@ -1,0 +1,1882 @@
+[
+    {
+        "address": {
+            "displayAddress": "32 C2, Cluny Gardens, Edinburgh, EH10 6BN",
+            "homePagesAddress": null,
+            "lat": 55.924636505543326,
+            "lines": [
+                "32 C2,  CLUNY GARDENS"
+            ],
+            "lon": -3.202901555410647,
+            "postTown": "EDINBURGH",
+            "postcode": "EH10 6BN",
+            "primaryDistrict": null
+        },
+        "bedrooms": 0,
+        "image": null,
+        "receptionRooms": 0,
+        "saleHistory": [
+            {
+                "date": "2019-11-30T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 392500.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 3,
+            "name": "Flat",
+            "supertype": "Flat"
+        },
+        "url": "/property/32-c2-cluny-gardens-edinburgh-eh10-6bn/35834833"
+    },
+    {
+        "address": {
+            "displayAddress": "45 Cumberland Street, Edinburgh, EH3 6RA",
+            "homePagesAddress": null,
+            "lat": 55.95832902748324,
+            "lines": [
+                "45 CUMBERLAND STREET"
+            ],
+            "lon": -3.200907736224651,
+            "postTown": "EDINBURGH",
+            "postcode": "EH3 6RA",
+            "primaryDistrict": null
+        },
+        "bedrooms": 0,
+        "image": null,
+        "receptionRooms": 0,
+        "saleHistory": [
+            {
+                "date": "2019-11-29T00:00:00+00:00",
+                "percentageIncrease": 10.1,
+                "reference": null,
+                "sellingPrice": 320000.0,
+                "source": null
+            },
+            {
+                "date": "2007-05-11T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 290700.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 3,
+            "name": "Flat",
+            "supertype": "Flat"
+        },
+        "url": "/property/45-cumberland-street-edinburgh-eh3-6ra/34680967"
+    },
+    {
+        "address": {
+            "displayAddress": "39b Granby Road, Edinburgh, EH16 5NP",
+            "homePagesAddress": "39B Granby Road, Newington,",
+            "lat": 55.927187382256776,
+            "lines": [
+                "39B Granby Road"
+            ],
+            "lon": -3.171367597201625,
+            "postTown": "Newington",
+            "postcode": "EH16 5NP",
+            "primaryDistrict": null
+        },
+        "bedrooms": 2,
+        "image": null,
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-28T00:00:00+00:00",
+                "percentageIncrease": 18.2,
+                "reference": null,
+                "sellingPrice": 390000.0,
+                "source": null
+            },
+            {
+                "date": "2016-11-11T00:00:00+00:00",
+                "percentageIncrease": 32.0,
+                "reference": 366569,
+                "sellingPrice": 330000.0,
+                "source": "espc"
+            },
+            {
+                "date": "2007-07-31T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 250000.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 21,
+            "name": "Flat - Others",
+            "supertype": "Flat"
+        },
+        "url": "/property/39b-granby-road-edinburgh-eh16-5np/34564467"
+    },
+    {
+        "address": {
+            "displayAddress": "33 Northfield Farm Avenue, Edinburgh, EH8 7QY",
+            "homePagesAddress": "33 Northfield Farm Avenue",
+            "lat": 55.95039367675781,
+            "lines": [
+                "33 Northfield Farm Avenue"
+            ],
+            "lon": -3.1329240798950195,
+            "postTown": "Edinburgh",
+            "postcode": "EH8 7QY",
+            "primaryDistrict": null
+        },
+        "bedrooms": 3,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/473305/MainImage/473305_0.202002140958.jpg&width=150&height=150",
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-28T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": 473305,
+                "sellingPrice": 240000.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 56,
+            "name": "House - End Terraced",
+            "supertype": "House"
+        },
+        "url": "/property/33-northfield-farm-avenue-edinburgh-eh8-7qy/35760933"
+    },
+    {
+        "address": {
+            "displayAddress": "2 Viewcraig Street, Edinburgh, EH8 9UB",
+            "homePagesAddress": null,
+            "lat": 55.94816439435278,
+            "lines": [
+                "2 VIEWCRAIG STREET"
+            ],
+            "lon": -3.1792521056808654,
+            "postTown": "EDINBURGH",
+            "postcode": "EH8 9UB",
+            "primaryDistrict": null
+        },
+        "bedrooms": 0,
+        "image": null,
+        "receptionRooms": 0,
+        "saleHistory": [
+            {
+                "date": "2019-11-28T00:00:00+00:00",
+                "percentageIncrease": 96.6,
+                "reference": null,
+                "sellingPrice": 195000.0,
+                "source": null
+            },
+            {
+                "date": "2009-05-29T00:00:00+01:00",
+                "percentageIncrease": 230.7,
+                "reference": null,
+                "sellingPrice": 99200.0,
+                "source": null
+            },
+            {
+                "date": "2006-04-27T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 30000.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 3,
+            "name": "Flat",
+            "supertype": "Flat"
+        },
+        "url": "/property/2-viewcraig-street-edinburgh-eh8-9ub/34710993"
+    },
+    {
+        "address": {
+            "displayAddress": "39b Granby Road, Edinburgh, EH16 5NP",
+            "homePagesAddress": "39b  Granby Road, Newington",
+            "lat": 55.927187382256776,
+            "lines": [
+                "39b  Granby Road, Newington"
+            ],
+            "lon": -3.171367597201625,
+            "postTown": "Edinburgh",
+            "postcode": "EH16 5NP",
+            "primaryDistrict": null
+        },
+        "bedrooms": 2,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/484649/MainImage/484649_0.202002171453.jpg&width=150&height=150",
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-28T00:00:00+00:00",
+                "percentageIncrease": 18.2,
+                "reference": 484649,
+                "sellingPrice": 390000.0,
+                "source": "espc"
+            },
+            {
+                "date": "2016-11-11T00:00:00+00:00",
+                "percentageIncrease": 32.0,
+                "reference": null,
+                "sellingPrice": 330000.0,
+                "source": null
+            },
+            {
+                "date": "2007-07-31T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 250000.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 16,
+            "name": "Flat - Upper",
+            "supertype": "Flat"
+        },
+        "url": "/property/39b-granby-road-edinburgh-eh16-5np/35786067"
+    },
+    {
+        "address": {
+            "displayAddress": "2 Cramond Avenue, Edinburgh, EH4 6PL",
+            "homePagesAddress": null,
+            "lat": 55.97488876818698,
+            "lines": [
+                "2 CRAMOND AVENUE"
+            ],
+            "lon": -3.3015052654494292,
+            "postTown": "EDINBURGH",
+            "postcode": "EH4 6PL",
+            "primaryDistrict": null
+        },
+        "bedrooms": 0,
+        "image": null,
+        "receptionRooms": 0,
+        "saleHistory": [
+            {
+                "date": "2019-11-28T00:00:00+00:00",
+                "percentageIncrease": 58.7,
+                "reference": null,
+                "sellingPrice": 555500.0,
+                "source": null
+            },
+            {
+                "date": "2007-11-02T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 350000.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 0,
+            "name": "Detached",
+            "supertype": "Detached"
+        },
+        "url": "/property/2-cramond-avenue-edinburgh-eh4-6pl/34679538"
+    },
+    {
+        "address": {
+            "displayAddress": "4 Cumlodden Avenue, Edinburgh, EH12 6DR",
+            "homePagesAddress": "4 Cumlodden Avenue",
+            "lat": 55.94913069266559,
+            "lines": [
+                "4 Cumlodden Avenue"
+            ],
+            "lon": -3.2445442131809963,
+            "postTown": "Edinburgh",
+            "postcode": "EH12 6DR",
+            "primaryDistrict": null
+        },
+        "bedrooms": 5,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/486699/MainImage/486699_0.202001291147.jpg&width=150&height=150",
+        "receptionRooms": 3,
+        "saleHistory": [
+            {
+                "date": "2019-11-28T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": 486699,
+                "sellingPrice": 952000.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 42,
+            "name": "House - Semi Detached",
+            "supertype": "House"
+        },
+        "url": "/property/4-cumlodden-avenue-edinburgh-eh12-6dr/35799476"
+    },
+    {
+        "address": {
+            "displayAddress": "102 Liberton Brae, Edinburgh, EH16 6LA",
+            "homePagesAddress": "102 Liberton Brae, Edinburgh EH16 6LA",
+            "lat": 55.91386795043945,
+            "lines": [
+                "102 Liberton Brae"
+            ],
+            "lon": -3.164858102798462,
+            "postTown": "EDINBURGH",
+            "postcode": "EH16 6LA",
+            "primaryDistrict": null
+        },
+        "bedrooms": 3,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/486731/MainImage/486731_0.202002211252.jpg&width=150&height=150",
+        "receptionRooms": 2,
+        "saleHistory": [
+            {
+                "date": "2019-11-28T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": 486731,
+                "sellingPrice": 413000.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 42,
+            "name": "House - Semi Detached",
+            "supertype": "House"
+        },
+        "url": "/property/102-liberton-brae-edinburgh-eh16-6la/35802991"
+    },
+    {
+        "address": {
+            "displayAddress": "23 Ravenscroft Place, Edinburgh,EH17 8QU",
+            "homePagesAddress": "23 Ravenscroft Place",
+            "lat": 55.90281615740066,
+            "lines": [
+                "23 Ravenscroft Place"
+            ],
+            "lon": -3.1361044444897974,
+            "postTown": "Edinburgh",
+            "postcode": "EH17 8QU",
+            "primaryDistrict": null
+        },
+        "bedrooms": 1,
+        "image": null,
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-28T00:00:00+00:00",
+                "percentageIncrease": 30.2,
+                "reference": null,
+                "sellingPrice": 112000.0,
+                "source": null
+            },
+            {
+                "date": "2004-05-21T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": 153459,
+                "sellingPrice": 86050.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 20,
+            "name": "Flat - Ground Floor",
+            "supertype": "Flat"
+        },
+        "url": "/property/23-ravenscroft-place-edinburgheh17-8qu/990710"
+    },
+    {
+        "address": {
+            "displayAddress": "18 Merchiston Avenue, Edinburgh, EH10 4NY",
+            "homePagesAddress": null,
+            "lat": 55.93632999684841,
+            "lines": [
+                "18 MERCHISTON AVENUE"
+            ],
+            "lon": -3.214921350225059,
+            "postTown": "EDINBURGH",
+            "postcode": "EH10 4NY",
+            "primaryDistrict": null
+        },
+        "bedrooms": 0,
+        "image": null,
+        "receptionRooms": 0,
+        "saleHistory": [
+            {
+                "date": "2019-11-27T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 2000000.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 0,
+            "name": "Detached",
+            "supertype": "Detached"
+        },
+        "url": "/property/18-merchiston-avenue-edinburgh-eh10-4ny/35833122"
+    },
+    {
+        "address": {
+            "displayAddress": "26 Ashville Terrace, Edinburgh, EH6 8DD",
+            "homePagesAddress": "26 Ashville Terrace",
+            "lat": 55.9665284910992,
+            "lines": [
+                "26 Ashville Terrace"
+            ],
+            "lon": -3.1623621030816236,
+            "postTown": "Edinburgh",
+            "postcode": "EH6 8DD",
+            "primaryDistrict": null
+        },
+        "bedrooms": 2,
+        "image": null,
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-27T00:00:00+00:00",
+                "percentageIncrease": 47.7,
+                "reference": null,
+                "sellingPrice": 213500.0,
+                "source": null
+            },
+            {
+                "date": "2015-04-10T00:00:00+01:00",
+                "percentageIncrease": 4.8,
+                "reference": 342310,
+                "sellingPrice": 144565.0,
+                "source": "espc"
+            },
+            {
+                "date": "2007-10-19T00:00:00+01:00",
+                "percentageIncrease": 50.8,
+                "reference": 241658,
+                "sellingPrice": 138000.0,
+                "source": "espc"
+            },
+            {
+                "date": "2004-02-27T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": 148792,
+                "sellingPrice": 91483.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 20,
+            "name": "Flat - Ground Floor",
+            "supertype": "Flat"
+        },
+        "url": "/property/26-ashville-terrace-edinburgh-eh6-8dd/926285"
+    },
+    {
+        "address": {
+            "displayAddress": "7/4 Essendean Place, Edinburgh, EH4 7HF",
+            "homePagesAddress": "7-4 Essendean Place, Edinburgh, EH4 7HF",
+            "lat": 55.95356622043921,
+            "lines": [
+                "7-4 Essendean Place"
+            ],
+            "lon": -3.287634723056048,
+            "postTown": "Edinburgh",
+            "postcode": "EH4 7HF",
+            "primaryDistrict": null
+        },
+        "bedrooms": 2,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/485845/MainImage/485845_0.202002131410.jpg&width=150&height=150",
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-27T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": 485845,
+                "sellingPrice": 132000.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 6,
+            "name": "Flat - First Floor",
+            "supertype": "Flat"
+        },
+        "url": "/property/7-4-essendean-place-edinburgh-eh4-7hf/35790557"
+    },
+    {
+        "address": {
+            "displayAddress": "26 Ashville Terrace, Edinburgh, EH6 8DD",
+            "homePagesAddress": "26 Ashville Terrace, Leith Links",
+            "lat": 55.9665284910992,
+            "lines": [
+                "26 Ashville Terrace"
+            ],
+            "lon": -3.1623621030816236,
+            "postTown": "EDINBURGH",
+            "postcode": "EH6 8DD",
+            "primaryDistrict": null
+        },
+        "bedrooms": 2,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/486440/MainImage/486440_0.201911280952.jpg&width=150&height=150",
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-27T00:00:00+00:00",
+                "percentageIncrease": 47.7,
+                "reference": 486440,
+                "sellingPrice": 213500.0,
+                "source": "espc"
+            },
+            {
+                "date": "2015-04-10T00:00:00+01:00",
+                "percentageIncrease": 4.8,
+                "reference": null,
+                "sellingPrice": 144565.0,
+                "source": null
+            },
+            {
+                "date": "2007-10-19T00:00:00+01:00",
+                "percentageIncrease": 50.8,
+                "reference": null,
+                "sellingPrice": 138000.0,
+                "source": null
+            },
+            {
+                "date": "2004-02-27T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 91483.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 8,
+            "name": "Flat - Maindoor",
+            "supertype": "Flat"
+        },
+        "url": "/property/26-ashville-terrace-edinburgh-eh6-8dd/35802115"
+    },
+    {
+        "address": {
+            "displayAddress": "35 Blackford Road, Edinburgh, EH9 2DT",
+            "homePagesAddress": "35 Blackford Road",
+            "lat": 55.93235397338867,
+            "lines": [
+                "35 Blackford Road"
+            ],
+            "lon": -3.194065809249878,
+            "postTown": "EDINBURGH",
+            "postcode": "EH9 2DT",
+            "primaryDistrict": null
+        },
+        "bedrooms": 5,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/470621/MainImage/470621_0.202002260945.jpg&width=150&height=150",
+        "receptionRooms": 3,
+        "saleHistory": [
+            {
+                "date": "2019-11-27T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": 470621,
+                "sellingPrice": 760000.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 54,
+            "name": "Flat - Double Upper",
+            "supertype": "Flat"
+        },
+        "url": "/property/35-blackford-road-edinburgh-eh9-2dt/35750956"
+    },
+    {
+        "address": {
+            "displayAddress": "210/1 Bonnington Road, Edinburgh, EH6 5BH",
+            "homePagesAddress": "210/1 Bonnington Road",
+            "lat": 55.96992874145508,
+            "lines": [
+                "210/1 Bonnington Road"
+            ],
+            "lon": -3.1825170516967773,
+            "postTown": "Edinburgh",
+            "postcode": "EH6 5BH",
+            "primaryDistrict": null
+        },
+        "bedrooms": 1,
+        "image": null,
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-26T00:00:00+00:00",
+                "percentageIncrease": 20.9,
+                "reference": null,
+                "sellingPrice": 142000.0,
+                "source": null
+            },
+            {
+                "date": "2008-10-24T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": 262514,
+                "sellingPrice": 117430.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 20,
+            "name": "Flat - Ground Floor",
+            "supertype": "Flat"
+        },
+        "url": "/property/210-1-bonnington-road-edinburgh-eh6-5bh/800192"
+    },
+    {
+        "address": {
+            "displayAddress": "61 Pikes Pool Drive, Kirkliston, West Lothian, EH29 9GH",
+            "homePagesAddress": "61 Pikes Pool Drive",
+            "lat": 55.952507458507434,
+            "lines": [
+                "61 Pikes Pool Drive"
+            ],
+            "lon": -3.408256003974471,
+            "postTown": "KIRKLISTON",
+            "postcode": "EH29 9GH",
+            "primaryDistrict": null
+        },
+        "bedrooms": 5,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/486260/MainImage/486260_0.202002111404.jpg&width=150&height=150",
+        "receptionRooms": 2,
+        "saleHistory": [
+            {
+                "date": "2019-11-26T00:00:00+00:00",
+                "percentageIncrease": 10.3,
+                "reference": 486260,
+                "sellingPrice": 320000.0,
+                "source": "espc"
+            },
+            {
+                "date": "2017-10-06T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 289995.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 12,
+            "name": "House - Detached",
+            "supertype": "House"
+        },
+        "url": "/property/61-pikes-pool-drive-kirkliston-west-lothian-eh29-9gh/35801634"
+    },
+    {
+        "address": {
+            "displayAddress": "4, Heriothill Terrace, Edinburgh, EH7 4DY",
+            "homePagesAddress": null,
+            "lat": 55.96225572690302,
+            "lines": [
+                "4,  HERIOTHILL TERRACE"
+            ],
+            "lon": -3.1952748132619617,
+            "postTown": "EDINBURGH",
+            "postcode": "EH7 4DY",
+            "primaryDistrict": null
+        },
+        "bedrooms": 0,
+        "image": null,
+        "receptionRooms": 0,
+        "saleHistory": [
+            {
+                "date": "2019-11-26T00:00:00+00:00",
+                "percentageIncrease": 18.8,
+                "reference": null,
+                "sellingPrice": 190000.0,
+                "source": null
+            },
+            {
+                "date": "2016-04-22T00:00:00+01:00",
+                "percentageIncrease": -0.1,
+                "reference": null,
+                "sellingPrice": 160000.0,
+                "source": null
+            },
+            {
+                "date": "2007-09-27T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 160100.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 3,
+            "name": "Flat",
+            "supertype": "Flat"
+        },
+        "url": "/property/4-heriothill-terrace-edinburgh-eh7-4dy/34671750"
+    },
+    {
+        "address": {
+            "displayAddress": "210/1 Bonnington Road, Edinburgh, EH6 5BH",
+            "homePagesAddress": "210/1 Bonnington Road",
+            "lat": 55.96992111206055,
+            "lines": [
+                "210/1 Bonnington Road"
+            ],
+            "lon": -3.18253231048584,
+            "postTown": "Edinburgh",
+            "postcode": "EH6 5BH",
+            "primaryDistrict": null
+        },
+        "bedrooms": 1,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/484402/MainImage/484402_0.202002121102.jpg&width=150&height=150",
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-26T00:00:00+00:00",
+                "percentageIncrease": 20.9,
+                "reference": 484402,
+                "sellingPrice": 142000.0,
+                "source": "espc"
+            },
+            {
+                "date": "2008-10-24T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 117430.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 20,
+            "name": "Flat - Ground Floor",
+            "supertype": "Flat"
+        },
+        "url": "/property/210-1-bonnington-road-edinburgh-eh6-5bh/35786840"
+    },
+    {
+        "address": {
+            "displayAddress": "13/13 Valleyfield Street, Edinburgh, EH3 9LP",
+            "homePagesAddress": "13/13 Valleyfield Street",
+            "lat": 55.941397385214046,
+            "lines": [
+                "13/13 Valleyfield Street"
+            ],
+            "lon": -3.2026598393155212,
+            "postTown": "EDINBURGH",
+            "postcode": "EH3 9LP",
+            "primaryDistrict": null
+        },
+        "bedrooms": 3,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/484386/MainImage/484386_0.201911261432.jpg&width=150&height=150",
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-25T00:00:00+00:00",
+                "percentageIncrease": 10.7,
+                "reference": 484386,
+                "sellingPrice": 393000.0,
+                "source": "espc"
+            },
+            {
+                "date": "2006-11-17T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 355000.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 10,
+            "name": "Flat - Fourth Floor",
+            "supertype": "Flat"
+        },
+        "url": "/property/13-13-valleyfield-street-edinburgh-eh3-9lp/35786598"
+    },
+    {
+        "address": {
+            "displayAddress": "18/2, Douglas Crescent, Edinburgh, EH12 5BA",
+            "homePagesAddress": null,
+            "lat": 55.949474284775214,
+            "lines": [
+                "18/2,  DOUGLAS CRESCENT"
+            ],
+            "lon": -3.2209827308522607,
+            "postTown": "EDINBURGH",
+            "postcode": "EH12 5BA",
+            "primaryDistrict": null
+        },
+        "bedrooms": 0,
+        "image": null,
+        "receptionRooms": 0,
+        "saleHistory": [
+            {
+                "date": "2019-11-25T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 715000.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 3,
+            "name": "Flat",
+            "supertype": "Flat"
+        },
+        "url": "/property/18-2-douglas-crescent-edinburgh-eh12-5ba/35824931"
+    },
+    {
+        "address": {
+            "displayAddress": "9 Polwarth Crescent, Edinburgh, EH11 1HP",
+            "homePagesAddress": null,
+            "lat": 55.93756118156645,
+            "lines": [
+                "9 POLWARTH CRESCENT"
+            ],
+            "lon": -3.217452494069242,
+            "postTown": "EDINBURGH",
+            "postcode": "EH11 1HP",
+            "primaryDistrict": null
+        },
+        "bedrooms": 0,
+        "image": null,
+        "receptionRooms": 0,
+        "saleHistory": [
+            {
+                "date": "2019-11-25T00:00:00+00:00",
+                "percentageIncrease": 85.9,
+                "reference": null,
+                "sellingPrice": 395000.0,
+                "source": null
+            },
+            {
+                "date": "2012-01-09T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 212500.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 3,
+            "name": "Flat",
+            "supertype": "Flat"
+        },
+        "url": "/property/9-polwarth-crescent-edinburgh-eh11-1hp/34603289"
+    },
+    {
+        "address": {
+            "displayAddress": "36 St Patrick Square (1F2), Edinburgh,EH8 9EU",
+            "homePagesAddress": "36 St Patrick Square (1F2)",
+            "lat": 55.94323941999744,
+            "lines": [
+                "36 St Patrick Square (1F2)"
+            ],
+            "lon": -3.1839589352202635,
+            "postTown": "Edinburgh",
+            "postcode": "EH8 9EU",
+            "primaryDistrict": null
+        },
+        "bedrooms": 2,
+        "image": null,
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-25T00:00:00+00:00",
+                "percentageIncrease": 88.7,
+                "reference": null,
+                "sellingPrice": 350000.0,
+                "source": null
+            },
+            {
+                "date": "2005-08-26T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": 192708,
+                "sellingPrice": 185500.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 6,
+            "name": "Flat - First Floor",
+            "supertype": "Flat"
+        },
+        "url": "/property/36-st-patrick-square-1f2-edinburgheh8-9eu/962836"
+    },
+    {
+        "address": {
+            "displayAddress": "21 Tylers Acre Gardens, Edinburgh, EH12 7JQ",
+            "homePagesAddress": "21 Tylers Acre Gardens",
+            "lat": 55.93718089965737,
+            "lines": [
+                "21 Tylers Acre Gardens"
+            ],
+            "lon": -3.277363444623063,
+            "postTown": "Edinburgh",
+            "postcode": "EH12 7JQ",
+            "primaryDistrict": null
+        },
+        "bedrooms": 3,
+        "image": null,
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-25T00:00:00+00:00",
+                "percentageIncrease": 49.7,
+                "reference": null,
+                "sellingPrice": 310310.0,
+                "source": null
+            },
+            {
+                "date": "2004-06-25T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": 156393,
+                "sellingPrice": 207269.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 42,
+            "name": "House - Semi Detached",
+            "supertype": "House"
+        },
+        "url": "/property/21-tylers-acre-gardens-edinburgh-eh12-7jq/988581"
+    },
+    {
+        "address": {
+            "displayAddress": "20 Gilmerton Dykes Avenue, Edinburgh, EH17 8ND",
+            "homePagesAddress": "20 Gilmerton Dykes Avenue",
+            "lat": 55.90283465282511,
+            "lines": [
+                "20 Gilmerton Dykes Avenue"
+            ],
+            "lon": -3.1448747737097755,
+            "postTown": "EDINBURGH",
+            "postcode": "EH17 8ND",
+            "primaryDistrict": null
+        },
+        "bedrooms": 3,
+        "image": null,
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-25T00:00:00+00:00",
+                "percentageIncrease": 38.5,
+                "reference": null,
+                "sellingPrice": 180000.0,
+                "source": null
+            },
+            {
+                "date": "2015-05-15T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": 348321,
+                "sellingPrice": 130000.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 13,
+            "name": "House - Terraced",
+            "supertype": "House"
+        },
+        "url": "/property/20-gilmerton-dykes-avenue-edinburgh-eh17-8nd/34518753"
+    },
+    {
+        "address": {
+            "displayAddress": "36/2 St. Patrick Square, Edinburgh, EH8 9EU",
+            "homePagesAddress": "36/2 St. Patrick Square",
+            "lat": 55.94326400756836,
+            "lines": [
+                "36/2 St. Patrick Square"
+            ],
+            "lon": -3.183910846710205,
+            "postTown": "EDINBURGH",
+            "postcode": "EH8 9EU",
+            "primaryDistrict": null
+        },
+        "bedrooms": 2,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/484140/MainImage/484140_0.202002171740.jpg&width=150&height=150",
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-25T00:00:00+00:00",
+                "percentageIncrease": 88.7,
+                "reference": 484140,
+                "sellingPrice": 350000.0,
+                "source": "espc"
+            },
+            {
+                "date": "2005-08-26T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 185500.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 6,
+            "name": "Flat - First Floor",
+            "supertype": "Flat"
+        },
+        "url": "/property/36-2-st-patrick-square-edinburgh-eh8-9eu/35786003"
+    },
+    {
+        "address": {
+            "displayAddress": "21 Tylers Acre Gardens, Edinburgh, EH12 7JQ",
+            "homePagesAddress": "21 Tylers Acre Gardens",
+            "lat": 55.93718089965737,
+            "lines": [
+                "21 Tylers Acre Gardens"
+            ],
+            "lon": -3.277363444623063,
+            "postTown": "Edinburgh",
+            "postcode": "EH12 7JQ",
+            "primaryDistrict": null
+        },
+        "bedrooms": 3,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/485784/MainImage/485784_0.202001211038.jpg&width=150&height=150",
+        "receptionRooms": 2,
+        "saleHistory": [
+            {
+                "date": "2019-11-25T00:00:00+00:00",
+                "percentageIncrease": 49.7,
+                "reference": 485784,
+                "sellingPrice": 310310.0,
+                "source": "espc"
+            },
+            {
+                "date": "2004-06-25T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 207269.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 56,
+            "name": "House - End Terraced",
+            "supertype": "House"
+        },
+        "url": "/property/21-tylers-acre-gardens-edinburgh-eh12-7jq/35800100"
+    },
+    {
+        "address": {
+            "displayAddress": "14 Cadogan Road, Edinburgh, EH16 6LY",
+            "homePagesAddress": "14 Cadogan Road",
+            "lat": 55.91291948017249,
+            "lines": [
+                "14 Cadogan Road"
+            ],
+            "lon": -3.1655175471501154,
+            "postTown": "Edinburgh",
+            "postcode": "EH16 6LY",
+            "primaryDistrict": null
+        },
+        "bedrooms": 4,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/484703/MainImage/484703_0.202001200936.jpg&width=150&height=150",
+        "receptionRooms": 2,
+        "saleHistory": [
+            {
+                "date": "2019-11-25T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": 484703,
+                "sellingPrice": 575000.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 12,
+            "name": "House - Detached",
+            "supertype": "House"
+        },
+        "url": "/property/14-cadogan-road-edinburgh-eh16-6ly/35787805"
+    },
+    {
+        "address": {
+            "displayAddress": "40 Maryfield, Edinburgh, EH7 5AS",
+            "homePagesAddress": "40 Maryfield, Abbeyhill",
+            "lat": 55.95824432373047,
+            "lines": [
+                "40 Maryfield"
+            ],
+            "lon": -3.170531988143921,
+            "postTown": "Edinburgh",
+            "postcode": "EH7 5AS",
+            "primaryDistrict": null
+        },
+        "bedrooms": 3,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/486867/MainImage/486867_0.202002181618.jpg&width=150&height=150",
+        "receptionRooms": 2,
+        "saleHistory": [
+            {
+                "date": "2019-11-25T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": 486867,
+                "sellingPrice": 377789.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 54,
+            "name": "Flat - Double Upper",
+            "supertype": "Flat"
+        },
+        "url": "/property/40-maryfield-edinburgh-eh7-5as/35803278"
+    },
+    {
+        "address": {
+            "displayAddress": "18 Cochrane Place, Edinburgh, EH6 8AH",
+            "homePagesAddress": "18 Cochrane Place",
+            "lat": 55.968875885009766,
+            "lines": [
+                "18 Cochrane Place"
+            ],
+            "lon": -3.1628823280334473,
+            "postTown": "EDINBURGH",
+            "postcode": "EH6 8AH",
+            "primaryDistrict": null
+        },
+        "bedrooms": 3,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/486765/MainImage/486765_0.202002182057.jpg&width=150&height=150",
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-25T00:00:00+00:00",
+                "percentageIncrease": 76.9,
+                "reference": 486765,
+                "sellingPrice": 345000.0,
+                "source": "espc"
+            },
+            {
+                "date": "2008-10-24T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 195000.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 54,
+            "name": "Flat - Double Upper",
+            "supertype": "Flat"
+        },
+        "url": "/property/18-cochrane-place-edinburgh-eh6-8ah/35803059"
+    },
+    {
+        "address": {
+            "displayAddress": "23/3 Newington Road, Edinburgh, EH9 1QR",
+            "homePagesAddress": "23/3 Newington Road",
+            "lat": 55.9387321472168,
+            "lines": [
+                "23/3 Newington Road"
+            ],
+            "lon": -3.1787662506103516,
+            "postTown": "EDINBURGH",
+            "postcode": "EH9 1QR",
+            "primaryDistrict": null
+        },
+        "bedrooms": 2,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/468878/MainImage/468878_0.202002191008.jpg&width=150&height=150",
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-25T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": 468878,
+                "sellingPrice": 270000.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 6,
+            "name": "Flat - First Floor",
+            "supertype": "Flat"
+        },
+        "url": "/property/23-3-newington-road-edinburgh-eh9-1qr/35740508"
+    },
+    {
+        "address": {
+            "displayAddress": "10/8, Mitchell Street, Edinburgh, EH6 7BD",
+            "homePagesAddress": null,
+            "lat": 55.97409612139928,
+            "lines": [
+                "10/8,  MITCHELL STREET"
+            ],
+            "lon": -3.1653753291831723,
+            "postTown": "EDINBURGH",
+            "postcode": "EH6 7BD",
+            "primaryDistrict": null
+        },
+        "bedrooms": 0,
+        "image": null,
+        "receptionRooms": 0,
+        "saleHistory": [
+            {
+                "date": "2019-11-25T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 210000.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 3,
+            "name": "Flat",
+            "supertype": "Flat"
+        },
+        "url": "/property/10-8-mitchell-street-edinburgh-eh6-7bd/35833093"
+    },
+    {
+        "address": {
+            "displayAddress": "7/11, Ramsay Place, Edinburgh, EH15 1JA",
+            "homePagesAddress": null,
+            "lat": 55.954258306139906,
+            "lines": [
+                "7/11,  RAMSAY PLACE"
+            ],
+            "lon": -3.1144042867188966,
+            "postTown": "EDINBURGH",
+            "postcode": "EH15 1JA",
+            "primaryDistrict": null
+        },
+        "bedrooms": 0,
+        "image": null,
+        "receptionRooms": 0,
+        "saleHistory": [
+            {
+                "date": "2019-11-25T00:00:00+00:00",
+                "percentageIncrease": 15.2,
+                "reference": null,
+                "sellingPrice": 168500.0,
+                "source": null
+            },
+            {
+                "date": "2007-08-24T00:00:00+01:00",
+                "percentageIncrease": 57.9,
+                "reference": null,
+                "sellingPrice": 146250.0,
+                "source": null
+            },
+            {
+                "date": "2004-06-01T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 92604.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 3,
+            "name": "Flat",
+            "supertype": "Flat"
+        },
+        "url": "/property/7-11-ramsay-place-edinburgh-eh15-1ja/34763633"
+    },
+    {
+        "address": {
+            "displayAddress": "Flat 6, 7 Ramslack Street, Balerno, EH14 5FE",
+            "homePagesAddress": null,
+            "lat": 55.891140688328946,
+            "lines": [
+                "FLAT 6, 7 RAMSLACK STREET"
+            ],
+            "lon": -3.3377777473080688,
+            "postTown": "BALERNO",
+            "postcode": "EH14 5FE",
+            "primaryDistrict": null
+        },
+        "bedrooms": 0,
+        "image": null,
+        "receptionRooms": 0,
+        "saleHistory": [
+            {
+                "date": "2019-11-25T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 195000.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 4,
+            "name": "Unallocated",
+            "supertype": "Unallocated"
+        },
+        "url": "/property/flat-6-7-ramslack-street-balerno-eh14-5fe/35833131"
+    },
+    {
+        "address": {
+            "displayAddress": "20/4, Parsons Green Terrace, Edinburgh, EH8 7AG",
+            "homePagesAddress": null,
+            "lat": 55.954986252550114,
+            "lines": [
+                "20/4,  PARSONS GREEN TERRACE"
+            ],
+            "lon": -3.1529628902631295,
+            "postTown": "EDINBURGH",
+            "postcode": "EH8 7AG",
+            "primaryDistrict": null
+        },
+        "bedrooms": 0,
+        "image": null,
+        "receptionRooms": 0,
+        "saleHistory": [
+            {
+                "date": "2019-11-25T00:00:00+00:00",
+                "percentageIncrease": 53.6,
+                "reference": null,
+                "sellingPrice": 236500.0,
+                "source": null
+            },
+            {
+                "date": "2014-09-26T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 154000.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 3,
+            "name": "Flat",
+            "supertype": "Flat"
+        },
+        "url": "/property/20-4-parsons-green-terrace-edinburgh-eh8-7ag/34805525"
+    },
+    {
+        "address": {
+            "displayAddress": "2/1 Melvin Walk, Edinburgh, EH3 8EQ",
+            "homePagesAddress": "2/1 Melvin Walk ",
+            "lat": 55.94298204816076,
+            "lines": [
+                "2/1 Melvin Walk "
+            ],
+            "lon": -3.2126615205797746,
+            "postTown": "Edinburgh",
+            "postcode": "EH3 8EQ",
+            "primaryDistrict": null
+        },
+        "bedrooms": 1,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/486371/MainImage/486371_0.202002181449.jpg&width=150&height=150",
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-25T00:00:00+00:00",
+                "percentageIncrease": 30.3,
+                "reference": 486371,
+                "sellingPrice": 215000.0,
+                "source": "espc"
+            },
+            {
+                "date": "2012-12-13T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 165000.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 20,
+            "name": "Flat - Ground Floor",
+            "supertype": "Flat"
+        },
+        "url": "/property/2-1-melvin-walk-edinburgh-eh3-8eq/35801045"
+    },
+    {
+        "address": {
+            "displayAddress": "118 Blackford Avenue, Edinburgh, EH9 3HH",
+            "homePagesAddress": "118 Blackford Avenue,  Blackford",
+            "lat": 55.9256835882888,
+            "lines": [
+                "118 Blackford Avenue"
+            ],
+            "lon": -3.1829289616773657,
+            "postTown": "Edinburgh",
+            "postcode": "EH9 3HH",
+            "primaryDistrict": null
+        },
+        "bedrooms": 3,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/485410/MainImage/485410_0.202002181557.jpg&width=150&height=150",
+        "receptionRooms": 2,
+        "saleHistory": [
+            {
+                "date": "2019-11-25T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": 485410,
+                "sellingPrice": 532646.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 42,
+            "name": "House - Semi Detached",
+            "supertype": "House"
+        },
+        "url": "/property/118-blackford-avenue-edinburgh-eh9-3hh/35790193"
+    },
+    {
+        "address": {
+            "displayAddress": "20c Niddrie Mill Crescent, Edinburgh,EH15 3ES",
+            "homePagesAddress": "20c Niddrie Mill Crescent",
+            "lat": 55.9364940790404,
+            "lines": [
+                "20c Niddrie Mill Crescent"
+            ],
+            "lon": -3.1189360860331696,
+            "postTown": "Edinburgh",
+            "postcode": "EH15 3ES",
+            "primaryDistrict": null
+        },
+        "bedrooms": 3,
+        "image": null,
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-22T00:00:00+00:00",
+                "percentageIncrease": 52.4,
+                "reference": null,
+                "sellingPrice": 125000.0,
+                "source": null
+            },
+            {
+                "date": "2007-01-19T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": 227948,
+                "sellingPrice": 82000.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 6,
+            "name": "Flat - First Floor",
+            "supertype": "Flat"
+        },
+        "url": "/property/20c-niddrie-mill-crescent-edinburgheh15-3es/936692"
+    },
+    {
+        "address": {
+            "displayAddress": "40/3 Rannoch Road, Edinburgh, EH4 7EW",
+            "homePagesAddress": "40/3 Rannoch Road",
+            "lat": 55.953529357910156,
+            "lines": [
+                "40/3 Rannoch Road"
+            ],
+            "lon": -3.2835240364074707,
+            "postTown": "Edinburgh",
+            "postcode": "EH4 7EW",
+            "primaryDistrict": null
+        },
+        "bedrooms": 2,
+        "image": null,
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-22T00:00:00+00:00",
+                "percentageIncrease": 31.8,
+                "reference": null,
+                "sellingPrice": 145000.0,
+                "source": null
+            },
+            {
+                "date": "2015-11-27T00:00:00+00:00",
+                "percentageIncrease": 22.2,
+                "reference": 357480,
+                "sellingPrice": 110000.0,
+                "source": "espc"
+            },
+            {
+                "date": "2005-12-16T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": 197495,
+                "sellingPrice": 90000.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 16,
+            "name": "Flat - Upper",
+            "supertype": "Flat"
+        },
+        "url": "/property/40-3-rannoch-road-edinburgh-eh4-7ew/959570"
+    },
+    {
+        "address": {
+            "displayAddress": "5/3 Ravelston Place, Edinburgh, EH4 3DT",
+            "homePagesAddress": "5/3 Ravelston Place",
+            "lat": 55.95253872122819,
+            "lines": [
+                "5/3 Ravelston Place"
+            ],
+            "lon": -3.22628253513483,
+            "postTown": "Edinburgh",
+            "postcode": "EH4 3DT",
+            "primaryDistrict": null
+        },
+        "bedrooms": 2,
+        "image": null,
+        "receptionRooms": 2,
+        "saleHistory": [
+            {
+                "date": "2019-11-22T00:00:00+00:00",
+                "percentageIncrease": 50.0,
+                "reference": null,
+                "sellingPrice": 337500.0,
+                "source": null
+            },
+            {
+                "date": "2009-11-06T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": 268211,
+                "sellingPrice": 225000.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 19,
+            "name": "Flat - Top Floor",
+            "supertype": "Flat"
+        },
+        "url": "/property/5-3-ravelston-place-edinburgh-eh4-3dt/797362"
+    },
+    {
+        "address": {
+            "displayAddress": "1/49 Ladywell Avenue, Edinburgh, EH12 7LG",
+            "homePagesAddress": "1/49 Ladywell Avenue",
+            "lat": 55.93999279613704,
+            "lines": [
+                "1/49 Ladywell Avenue"
+            ],
+            "lon": -3.286813613555247,
+            "postTown": "EDINBURGH",
+            "postcode": "EH12 7LG",
+            "primaryDistrict": null
+        },
+        "bedrooms": 1,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/486502/MainImage/486502_0.202001081106.jpg&width=150&height=150",
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-22T00:00:00+00:00",
+                "percentageIncrease": 31.8,
+                "reference": 486502,
+                "sellingPrice": 145000.0,
+                "source": "espc"
+            },
+            {
+                "date": "2013-02-22T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 110000.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 26,
+            "name": "Retirement",
+            "supertype": null
+        },
+        "url": "/property/1-49-ladywell-avenue-edinburgh-eh12-7lg/35800903"
+    },
+    {
+        "address": {
+            "displayAddress": "7/7 South Groathill Avenue, Edinburgh, EH4 2LL",
+            "homePagesAddress": "7/7 South Groathill Avenue, Craigleith",
+            "lat": 55.957044134087525,
+            "lines": [
+                "7/7 South Groathill Avenue"
+            ],
+            "lon": -3.2439332627305895,
+            "postTown": "Edinburgh",
+            "postcode": "EH4 2LL",
+            "primaryDistrict": null
+        },
+        "bedrooms": 2,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/486342/MainImage/486342_0.201911221301.jpg&width=150&height=150",
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-22T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": 486342,
+                "sellingPrice": 225272.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 7,
+            "name": "Flat - Second Floor",
+            "supertype": "Flat"
+        },
+        "url": "/property/7-7-south-groathill-avenue-edinburgh-eh4-2ll/35801869"
+    },
+    {
+        "address": {
+            "displayAddress": "39 Inchgarvie Park, South Queensferry, West Lothian, EH30 9RN",
+            "homePagesAddress": "39 Inchgarvie Park, South Queensferry",
+            "lat": 55.990794315277434,
+            "lines": [
+                "39 Inchgarvie Park"
+            ],
+            "lon": -3.409042289717182,
+            "postTown": "South Queensferry",
+            "postcode": "EH30 9RN",
+            "primaryDistrict": null
+        },
+        "bedrooms": 3,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/473745/MainImage/473745_0.202001201648.jpg&width=150&height=150",
+        "receptionRooms": 2,
+        "saleHistory": [
+            {
+                "date": "2019-11-22T00:00:00+00:00",
+                "percentageIncrease": 1.9,
+                "reference": 473745,
+                "sellingPrice": 160500.0,
+                "source": "espc"
+            },
+            {
+                "date": "2018-04-20T00:00:00+01:00",
+                "percentageIncrease": 125.1,
+                "reference": null,
+                "sellingPrice": 157557.0,
+                "source": null
+            },
+            {
+                "date": "2014-08-15T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 70000.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 20,
+            "name": "Flat - Ground Floor",
+            "supertype": "Flat"
+        },
+        "url": "/property/39-inchgarvie-park-south-queensferry-west-lothian-eh30-9rn/35770245"
+    },
+    {
+        "address": {
+            "displayAddress": "5 Swanston Avenue, Edinburgh, EH10 7BT",
+            "homePagesAddress": "5 Swanston Avenue, Fairmilehead, EH10 7BT",
+            "lat": 55.899479808032254,
+            "lines": [
+                "5 Swanston Avenue"
+            ],
+            "lon": -3.2053693702978654,
+            "postTown": "Edinburgh",
+            "postcode": "EH10 7BT",
+            "primaryDistrict": null
+        },
+        "bedrooms": 4,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/485596/MainImage/485596_0.202001011234.jpg&width=150&height=150",
+        "receptionRooms": 2,
+        "saleHistory": [
+            {
+                "date": "2019-11-22T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": 485596,
+                "sellingPrice": 590000.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 1,
+            "name": "Bungalow - Detached",
+            "supertype": "House"
+        },
+        "url": "/property/5-swanston-avenue-edinburgh-eh10-7bt/35770942"
+    },
+    {
+        "address": {
+            "displayAddress": "2 Glenogle Terrace, Edinburgh, EH3 5HS",
+            "homePagesAddress": "2 Glenogle Terrace, Stockbridge, Edinburgh, EH3 5H",
+            "lat": 55.96217346191406,
+            "lines": [
+                "2 Glenogle Terrace"
+            ],
+            "lon": -3.2061963081359863,
+            "postTown": "Edinburgh",
+            "postcode": "EH3 5HS",
+            "primaryDistrict": null
+        },
+        "bedrooms": 2,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/485445/MainImage/485445_0.202001231151.jpg&width=150&height=150",
+        "receptionRooms": 1,
+        "saleHistory": [
+            {
+                "date": "2019-11-22T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": 485445,
+                "sellingPrice": 475500.0,
+                "source": "espc"
+            }
+        ],
+        "type": {
+            "id": 54,
+            "name": "Flat - Double Upper",
+            "supertype": "Flat"
+        },
+        "url": "/property/2-glenogle-terrace-edinburgh-eh3-5hs/35788842"
+    },
+    {
+        "address": {
+            "displayAddress": "30 Clermiston Road, Edinburgh, EH12 6XE",
+            "homePagesAddress": "30 Clermiston Road",
+            "lat": 55.94473648071289,
+            "lines": [
+                "30 Clermiston Road"
+            ],
+            "lon": -3.2804462909698486,
+            "postTown": "EDINBURGH",
+            "postcode": "EH12 6XE",
+            "primaryDistrict": null
+        },
+        "bedrooms": 4,
+        "image": "https://espc.com/images?i=https://media.scottishhomereports.com/MediaServer/PropertyMarketing/485164/MainImage/485164_0.202001101218.jpg&width=150&height=150",
+        "receptionRooms": 2,
+        "saleHistory": [
+            {
+                "date": "2019-11-22T00:00:00+00:00",
+                "percentageIncrease": 10.4,
+                "reference": 485164,
+                "sellingPrice": 557655.0,
+                "source": "espc"
+            },
+            {
+                "date": "2016-07-14T00:00:00+01:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 505000.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 13,
+            "name": "House - Terraced",
+            "supertype": "House"
+        },
+        "url": "/property/30-clermiston-road-edinburgh-eh12-6xe/35789308"
+    },
+    {
+        "address": {
+            "displayAddress": "364/6, Gorgie Road, Edinburgh, EH11 2RQ",
+            "homePagesAddress": null,
+            "lat": 55.93655570571771,
+            "lines": [
+                "364/6,  GORGIE ROAD"
+            ],
+            "lon": -3.2405069400076023,
+            "postTown": "EDINBURGH",
+            "postcode": "EH11 2RQ",
+            "primaryDistrict": null
+        },
+        "bedrooms": 0,
+        "image": null,
+        "receptionRooms": 0,
+        "saleHistory": [
+            {
+                "date": "2019-11-22T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 161000.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 3,
+            "name": "Flat",
+            "supertype": "Flat"
+        },
+        "url": "/property/364-6-gorgie-road-edinburgh-eh11-2rq/35833044"
+    },
+    {
+        "address": {
+            "displayAddress": "50 Redhall Drive, Edinburgh, EH14 2HG",
+            "homePagesAddress": null,
+            "lat": 55.922860285364166,
+            "lines": [
+                "50 REDHALL DRIVE"
+            ],
+            "lon": -3.2566004237497364,
+            "postTown": "EDINBURGH",
+            "postcode": "EH14 2HG",
+            "primaryDistrict": null
+        },
+        "bedrooms": 0,
+        "image": null,
+        "receptionRooms": 0,
+        "saleHistory": [
+            {
+                "date": "2019-11-22T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 275000.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 1,
+            "name": "Semi Detached",
+            "supertype": "Semi Detached"
+        },
+        "url": "/property/50-redhall-drive-edinburgh-eh14-2hg/35833079"
+    },
+    {
+        "address": {
+            "displayAddress": "5/5, Glanville Place, Edinburgh, EH3 6SZ",
+            "homePagesAddress": null,
+            "lat": 55.957938262403715,
+            "lines": [
+                "5/5,  GLANVILLE PLACE"
+            ],
+            "lon": -3.2082591363689805,
+            "postTown": "EDINBURGH",
+            "postcode": "EH3 6SZ",
+            "primaryDistrict": null
+        },
+        "bedrooms": 0,
+        "image": null,
+        "receptionRooms": 0,
+        "saleHistory": [
+            {
+                "date": "2019-11-22T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 327177.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 3,
+            "name": "Flat",
+            "supertype": "Flat"
+        },
+        "url": "/property/5-5-glanville-place-edinburgh-eh3-6sz/35833105"
+    },
+    {
+        "address": {
+            "displayAddress": "21/13, Bathfield, Edinburgh, EH6 4DU",
+            "homePagesAddress": null,
+            "lat": 55.97879114368551,
+            "lines": [
+                "21/13,  BATHFIELD"
+            ],
+            "lon": -3.1844377036746456,
+            "postTown": "EDINBURGH",
+            "postcode": "EH6 4DU",
+            "primaryDistrict": null
+        },
+        "bedrooms": 0,
+        "image": null,
+        "receptionRooms": 0,
+        "saleHistory": [
+            {
+                "date": "2019-11-22T00:00:00+00:00",
+                "percentageIncrease": null,
+                "reference": null,
+                "sellingPrice": 120000.0,
+                "source": null
+            }
+        ],
+        "type": {
+            "id": 3,
+            "name": "Flat",
+            "supertype": "Flat"
+        },
+        "url": "/property/21-13-bathfield-edinburgh-eh6-4du/35833128"
+    }
+]
